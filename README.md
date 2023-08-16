@@ -21,5 +21,5 @@ mkdir -p ~/.config/nvim
 clone the repo
 
 ```
-git clone https://github.com/parmardiwakar150/neovim-config.git ~/.config/nvim
+git clone https://github.com/AmiZya/neovim-config.git ~/.config/nvim
 ```
